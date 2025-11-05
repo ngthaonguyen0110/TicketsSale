@@ -70,15 +70,27 @@
 ##### 2.3.2 Phương thức thanh toán
 <p align="center">
   <img src="image/paying_method.png?raw=true" 
-       alt="Age Distribution" width="100%" style="margin-right: 10px;"/>
+       alt="Age Distribution" width="90%" style="margin-right: 10px;"/>
 <p align="center" style="margin-top: 0 px;">
        <em>Biểu thể hiện số lượng, tỷ trọng vé được mua theo các phương thức thanh toán</em>
 </p>
 
 - Thanh toán trực tiếp qua app chiếm tỷ lệ cao nhất và tăng mạnh trong 2022
 - Thanh toán thẻ chỉ chiếm tỷ lệ nhỏ, có thể do xu hướng hiện tại chỉ cần có tài khoản ngân hàng là thanh toán được
-##### 2.3.2 Khách hàng sẽ ưa thích chương trình khuyến mãi nào?
+##### 2.3.2 Các chương trình khuyễn mãi
+<p align="center">
+  <img src="image/promotion_type.png?raw=true" 
+       alt="Age Distribution" width="90%" style="margin-right: 10px;"/>
+<p align="center" style="margin-top: 0 px;">
+       <em>Biểu thể hiện số lượng, tỷ trọng vé được mua thuộc chương trình khuyến mãi hay thông thường</em>
+</p>
+
+- Gần 60% doanh số đến từ những chương trình khuyến mãi
+- Số vé bán được thông qua chương trình khuyến mãi tăng mạnh vào 2022
+##### 2.3.2 Đâu là những phim khách hàng ưa thích?
 
 
+
+  
   
   
