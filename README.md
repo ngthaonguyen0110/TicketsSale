@@ -7,9 +7,9 @@
 #### 2.1 Đặc điểm nhân khẩu học
 <p align="center">
   <img src="https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/Age_Distribution.png?raw=true" 
-       alt="Age Distribution" width="40%" style="margin-right: 10px;"/>
+       alt="Age Distribution" width="45%" style="margin-right: 10px;"/>
   <img src="https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/age_distribution_gender.png?raw=true" 
-       alt="Age Distribution by Gender" width="40%"/>
+       alt="Age Distribution by Gender" width="45%"/>
 </p>
 
 <p align="center" style="margin-top: 0 px;">
@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <img src="https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/gender_proportion.png?raw=true" 
-       alt="Age Distribution" width="20%" style="margin-right: 10px;"/>
+       alt="Age Distribution" width="25%" style="margin-right: 10px;"/>
 <p align="center" style="margin-top: 0 px;">
        <em>Biểu đồ tỷ trọng giới tính</em>
 </p>
@@ -39,6 +39,21 @@
 - Những tháng có số lượng vé bán được cao cũng tương đương với thời điểm ra mắt những phim bom tấn
 #### 2.3 Các yếu tố ảnh hưởng 
 ##### 2.3.1 Đâu là nền tảng đặt vé mà khách hàng ưa chuộng?
+<p align="center">
+  <img src="image/platform.png?raw=true" 
+       alt="Age Distribution" width="45%" style="margin-right: 10px;"/>
+  <img src="image/platform_proportition.png?raw=true" 
+       alt="Age Distribution by Gender" width="25%" style="margin-left: 10px;"/>
+</p>
+
+<p align="center" style="margin-top: 0 px;">
+</p>
+<p align="center">
+  <img src="image/platform_by_time.png?raw=true" 
+       alt="Age Distribution" width="60%" style="margin-right: 10px;"/>
+<p align="center" style="margin-top: 0 px;">
+       <em>Biểu thể hiện số lượng, tỷ trọng vé được mua trên các nền tảng</em>
+</p>
 
 
   
