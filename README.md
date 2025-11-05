@@ -58,7 +58,26 @@
 - 89% số vé được mau qua điện thoại di động, 11% được mua qua website
 - Lựa chọn mua vé qua website được áp dụng từ 04-2022
 ##### 2.3.1 Khách hàng sử dụng thiết bị gì để mua vé ?
+<p align="center">
+  <img src="image/os_version.png?raw=true" 
+       alt="Age Distribution" width="70%" style="margin-right: 10px;"/>
+<p align="center" style="margin-top: 0 px;">
+       <em>Biểu thể hiện số lượng, tỷ trọng vé được mua trên các loại thiết bị</em>
+</p>
 
+- Các thiết bị ios là loại thiết bị chiếm ưu thế
+- Nhiều đơn hàng không theo dõi đucợ thiết bị thanh toán, đặc biệt là từ đầu 2022
+##### 2.3.2 Phương thức thanh toán
+<p align="center">
+  <img src="image/paying_method.png?raw=true" 
+       alt="Age Distribution" width="100%" style="margin-right: 10px;"/>
+<p align="center" style="margin-top: 0 px;">
+       <em>Biểu thể hiện số lượng, tỷ trọng vé được mua theo các phương thức thanh toán</em>
+</p>
+
+- Thanh toán trực tiếp qua app chiếm tỷ lệ cao nhất và tăng mạnh trong 2022
+- Thanh toán thẻ chỉ chiếm tỷ lệ nhỏ, có thể do xu hướng hiện tại chỉ cần có tài khoản ngân hàng là thanh toán được
+##### 2.3.2 Khách hàng sẽ ưa thích chương trình khuyến mãi nào?
 
 
   
