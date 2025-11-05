@@ -6,13 +6,14 @@
 ### Phần 2: Hành vi khách hàng 
 #### 2.1 Đặc điểm nhân khẩu học
 <p align="center">
-  <img src="[images/age_distribution.png](https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/Age_Distribution.png)" alt="Age Distribution" width="45%" style="margin-right: 10px;"/>
-  <img src="[images/age_distribution_by_gender.png](https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/Age_Distribution.png)" alt="Age Distribution by Gender" width="45%"/>
+  <img src="https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/Age_Distribution.png?raw=true" 
+       alt="Age Distribution" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/ngthaonguyen0110/TicketsSale/blob/main/image/Age_Distribution.png?raw=true" 
+       alt="Age Distribution by Gender" width="45%"/>
 </p>
 
 <p align="center">
   <em>Biểu đồ phân bố độ tuổi của khách hàng và phân bố theo giới tính</em>
 </p>
-
 
   
