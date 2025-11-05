@@ -55,6 +55,11 @@
        <em>Biểu thể hiện số lượng, tỷ trọng vé được mua trên các nền tảng</em>
 </p>
 
+- 89% số vé được mau qua điện thoại di động, 11% được mua qua website
+- Lựa chọn mua vé qua website được áp dụng từ 04-2022
+##### 2.3.1 Khách hàng sử dụng thiết bị gì để mua vé ?
+
+
 
   
   
